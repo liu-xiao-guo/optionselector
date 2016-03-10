@@ -1,0 +1,96 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-03-10 11:09+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: /home/liuxg/qml/optionselector/optionselector/Main.qml:19
+#: /home/liuxg/qml/build-optionselector-UbuntuSDK_for_armhf_GCC_ubuntu_sdk_15_04_vivid-Debug/optionselector/optionselector.desktop.h:1
+msgid "optionselector"
+msgstr ""
+
+#: /home/liuxg/qml/optionselector/optionselector/Main.qml:32
+msgid "Normal"
+msgstr ""
+
+#: /home/liuxg/qml/optionselector/optionselector/Main.qml:33
+#: /home/liuxg/qml/optionselector/optionselector/Main.qml:42
+#: /home/liuxg/qml/optionselector/optionselector/Main.qml:52
+#: /home/liuxg/qml/optionselector/optionselector/Main.qml:77
+#: /home/liuxg/qml/optionselector/optionselector/Main.qml:90
+msgid "Value 1"
+msgstr ""
+
+#: /home/liuxg/qml/optionselector/optionselector/Main.qml:34
+#: /home/liuxg/qml/optionselector/optionselector/Main.qml:43
+#: /home/liuxg/qml/optionselector/optionselector/Main.qml:53
+#: /home/liuxg/qml/optionselector/optionselector/Main.qml:78
+#: /home/liuxg/qml/optionselector/optionselector/Main.qml:91
+msgid "Value 2"
+msgstr ""
+
+#: /home/liuxg/qml/optionselector/optionselector/Main.qml:35
+#: /home/liuxg/qml/optionselector/optionselector/Main.qml:44
+#: /home/liuxg/qml/optionselector/optionselector/Main.qml:54
+#: /home/liuxg/qml/optionselector/optionselector/Main.qml:79
+#: /home/liuxg/qml/optionselector/optionselector/Main.qml:92
+msgid "Value 3"
+msgstr ""
+
+#: /home/liuxg/qml/optionselector/optionselector/Main.qml:36
+#: /home/liuxg/qml/optionselector/optionselector/Main.qml:45
+#: /home/liuxg/qml/optionselector/optionselector/Main.qml:55
+#: /home/liuxg/qml/optionselector/optionselector/Main.qml:80
+#: /home/liuxg/qml/optionselector/optionselector/Main.qml:93
+msgid "Value 4"
+msgstr ""
+
+#: /home/liuxg/qml/optionselector/optionselector/Main.qml:40
+msgid "Expanded"
+msgstr ""
+
+#: /home/liuxg/qml/optionselector/optionselector/Main.qml:49
+msgid "Multiple Selection"
+msgstr ""
+
+#: /home/liuxg/qml/optionselector/optionselector/Main.qml:58
+msgid "Custom model"
+msgstr ""
+
+#: /home/liuxg/qml/optionselector/optionselector/Main.qml:76
+#: /home/liuxg/qml/optionselector/optionselector/Main.qml:88
+msgid "Label"
+msgstr ""
+
+#: /home/liuxg/qml/optionselector/optionselector/Main.qml:81
+#: /home/liuxg/qml/optionselector/optionselector/Main.qml:94
+msgid "Value 5"
+msgstr ""
+
+#: /home/liuxg/qml/optionselector/optionselector/Main.qml:82
+#: /home/liuxg/qml/optionselector/optionselector/Main.qml:95
+msgid "Value 6"
+msgstr ""
+
+#: /home/liuxg/qml/optionselector/optionselector/Main.qml:83
+#: /home/liuxg/qml/optionselector/optionselector/Main.qml:96
+msgid "Value 7"
+msgstr ""
+
+#: /home/liuxg/qml/optionselector/optionselector/Main.qml:84
+#: /home/liuxg/qml/optionselector/optionselector/Main.qml:97
+msgid "Value 8"
+msgstr ""

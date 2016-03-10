@@ -1,0 +1,17 @@
+{
+    "name": "optionselector.liu-xiao-guo",
+    "description": "description of optionselector",
+    "architecture": "@CLICK_ARCH@",
+    "title": "optionselector",
+    "hooks": {
+        "optionselector": {
+            "apparmor": "optionselector/optionselector.apparmor",
+            "desktop":  "optionselector/optionselector.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+
